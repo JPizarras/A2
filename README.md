@@ -46,10 +46,10 @@ All work for this assignment was completed by me, Jan Pizarras.
 ### WAVE Audit Summary
 
 - Home Page:
-![alt text](image.png)
+![alt text](images/home.png)
 
 - About/Tutorial Page:
-![alt text](image-1.png)
+![alt text](images/tutorial.png)
 
 - Contact Page:
 ![alt text](images/image-1.png)
