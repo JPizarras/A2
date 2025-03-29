@@ -44,7 +44,11 @@ All work for this assignment was completed by me, Jan Pizarras.
 - ✅ Added a "Skip to Main Content" link for keyboard users
 
 ### WAVE Audit Summary
-- [ ] (You’ll include the results from running WAVE, listing any remaining issues or confirming all passed.)
+
+
+- Contact Page:
+![alt text](images/image-1.png)
+![alt text](images/image.png)
 
 ---
 
